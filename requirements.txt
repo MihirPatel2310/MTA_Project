@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+accelerate
+colpali-engine  # For ColPali processing
+chromadb
+llama-index-core
+pillow
+pypdf
+pydantic

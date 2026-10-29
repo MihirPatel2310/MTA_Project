@@ -1,0 +1,35 @@
+Company,Flag Type,Metric Name,Base Year,Comparison Year,Base Value (MT CO2e),Comparison Value (MT CO2e),Variance (%),Explanation
+Amazon,Baseline Restatement,Scope 1 Direct GHG,2023,2024,39910000,14220000,-64.37,Retroactive recalculation of FY2023 Scope 1 Direct GHG between the 2023 Report and 2024 Report (-64.4% shift).
+Amazon,YoY Discrepancy,Scope 1 Direct GHG,2021,2022,12110000,13020000,7.51,Longitudinal YoY increase of 7.5% in Scope 1 Direct GHG from FY2021 to FY2022.
+Amazon,YoY Discrepancy,Scope 1 Direct GHG,2022,2023,13020000,14220000,9.22,Longitudinal YoY increase of 9.2% in Scope 1 Direct GHG from FY2022 to FY2023.
+Amazon,YoY Discrepancy,Scope 1 Direct GHG,2023,2024,14220000,15130000,6.4,Longitudinal YoY increase of 6.4% in Scope 1 Direct GHG from FY2023 to FY2024.
+Amazon,YoY Discrepancy,Scope 2 Indirect GHG,2021,2022,4070000,3060000,-24.82,Longitudinal YoY reduction of 24.8% in Scope 2 Indirect GHG from FY2021 to FY2022.
+Amazon,YoY Discrepancy,Scope 2 Indirect GHG,2022,2023,3060000,2760000,-9.8,Longitudinal YoY reduction of 9.8% in Scope 2 Indirect GHG from FY2022 to FY2023.
+Amazon,YoY Discrepancy,Scope 2 Indirect GHG,2023,2024,2760000,5760000,108.7,Longitudinal YoY increase of 108.7% in Scope 2 Indirect GHG from FY2023 to FY2024.
+Amazon,Baseline Restatement,Scope 3 Value Chain GHG,2022,2024,54980000,49020000,-10.84,Retroactive recalculation of FY2022 Scope 3 Value Chain GHG between the 2022 Report and 2024 Report (-10.8% shift).
+Amazon,Baseline Restatement,Scope 3 Value Chain GHG,2023,2024,39910000,47400000,18.77,Retroactive recalculation of FY2023 Scope 3 Value Chain GHG between the 2023 Report and 2024 Report (+18.8% shift).
+Amazon,YoY Discrepancy,Scope 3 Value Chain GHG,2021,2022,55360000,49020000,-11.45,Longitudinal YoY reduction of 11.4% in Scope 3 Value Chain GHG from FY2021 to FY2022.
+Amazon,YoY Discrepancy,Scope 3 Value Chain GHG,2023,2024,47400000,50320000,6.16,Longitudinal YoY increase of 6.2% in Scope 3 Value Chain GHG from FY2023 to FY2024.
+Apple,Baseline Restatement,Scope 1 Direct GHG,2021,2022,47430,55200,16.38,Retroactive recalculation of FY2021 Scope 1 Direct GHG between the 2021 Report and 2022 Report (+16.4% shift).
+Apple,Baseline Restatement,Scope 1 Direct GHG,2023,2024,166380,55200,-66.82,Retroactive recalculation of FY2021 Scope 1 Direct GHG between the 2023 Report and 2024 Report (-66.8% shift).
+Apple,Baseline Restatement,Scope 2 Indirect GHG,2023,2024,2780,3000,7.91,Retroactive recalculation of FY2020 Scope 2 Indirect GHG between the 2023 Report and 2024 Report (+7.9% shift).
+Apple,Baseline Restatement,Scope 2 Indirect GHG,2022,2023,2780,3000,7.91,Retroactive recalculation of FY2021 Scope 2 Indirect GHG between the 2022 Report and 2023 Report (+7.9% shift).
+Apple,Baseline Restatement,Scope 2 Indirect GHG,2023,2024,3000,3400,13.33,Retroactive recalculation of FY2021 Scope 2 Indirect GHG between the 2023 Report and 2024 Report (+13.3% shift).
+Apple,YoY Discrepancy,Scope 2 Indirect GHG,2022,2023,1003246,1065405,6.2,Longitudinal YoY increase of 6.2% in Scope 2 Indirect GHG from FY2022 to FY2023.
+Apple,YoY Discrepancy,Scope 2 Indirect GHG,2023,2024,1065405,1206700,13.26,Longitudinal YoY increase of 13.3% in Scope 2 Indirect GHG from FY2023 to FY2024.
+Apple,YoY Discrepancy,Scope 3 Value Chain GHG,2021,2022,108400,265800,145.2,Longitudinal YoY increase of 145.2% in Scope 3 Value Chain GHG from FY2021 to FY2022.
+Apple,YoY Discrepancy,Scope 3 Value Chain GHG,2022,2023,265800,412800,55.3,Longitudinal YoY increase of 55.3% in Scope 3 Value Chain GHG from FY2022 to FY2023.
+Google,Baseline Restatement,Scope 1 Direct GHG,2022,2023,66549,38700,-41.85,Retroactive recalculation of FY2020 Scope 1 Direct GHG between the 2022 Report and 2023 Report (-41.9% shift).
+Google,Baseline Restatement,Scope 1 Direct GHG,2022,2023,63521,45100,-29,Retroactive recalculation of FY2021 Scope 1 Direct GHG between the 2022 Report and 2023 Report (-29.0% shift).
+Google,Baseline Restatement,Scope 1 Direct GHG,2023,2024,10200000,9183600,-9.96,Retroactive recalculation of FY2023 Scope 1 Direct GHG between the 2023 Report and 2024 Report (-10.0% shift).
+Google,YoY Discrepancy,Scope 1 Direct GHG,2022,2023,3388000,9183600,171.06,Longitudinal YoY increase of 171.1% in Scope 1 Direct GHG from FY2022 to FY2023.
+Google,Baseline Restatement,Scope 2 Indirect GHG,2021,2022,22000000,29000000,31.82,Retroactive recalculation of FY2020 Scope 2 Indirect GHG between the 2021 Report and 2022 Report (+31.8% shift).
+Google,Baseline Restatement,Scope 2 Indirect GHG,2023,2024,5865100,5116900,-12.76,Retroactive recalculation of FY2020 Scope 2 Indirect GHG between the 2023 Report and 2024 Report (-12.8% shift).
+Google,Baseline Restatement,Scope 2 Indirect GHG,2021,2022,1518643,509334,-66.46,Retroactive recalculation of FY2021 Scope 2 Indirect GHG between the 2021 Report and 2022 Report (-66.5% shift).
+Google,Baseline Restatement,Scope 2 Indirect GHG,2023,2024,6576200,5865100,-10.81,Retroactive recalculation of FY2021 Scope 2 Indirect GHG between the 2023 Report and 2024 Report (-10.8% shift).
+Google,Baseline Restatement,Scope 2 Indirect GHG,2023,2024,8045400,6576200,-18.26,Retroactive recalculation of FY2022 Scope 2 Indirect GHG between the 2023 Report and 2024 Report (-18.3% shift).
+Google,Baseline Restatement,Scope 2 Indirect GHG,2023,2024,10200000,9183600,-9.96,Retroactive recalculation of FY2023 Scope 2 Indirect GHG between the 2023 Report and 2024 Report (-10.0% shift).
+Google,YoY Discrepancy,Scope 2 Indirect GHG,2021,2022,5865100,6576200,12.12,Longitudinal YoY increase of 12.1% in Scope 2 Indirect GHG from FY2021 to FY2022.
+Google,YoY Discrepancy,Scope 2 Indirect GHG,2022,2023,6576200,9183600,39.65,Longitudinal YoY increase of 39.6% in Scope 2 Indirect GHG from FY2022 to FY2023.
+Google,YoY Discrepancy,Scope 3 Value Chain GHG,2021,2022,2249000,2828000,25.74,Longitudinal YoY increase of 25.7% in Scope 3 Value Chain GHG from FY2021 to FY2022.
+Google,YoY Discrepancy,Scope 3 Value Chain GHG,2022,2023,2828000,3762000,33.03,Longitudinal YoY increase of 33.0% in Scope 3 Value Chain GHG from FY2022 to FY2023.

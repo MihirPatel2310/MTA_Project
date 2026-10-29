@@ -1,0 +1,57 @@
+{
+  "cohens_kappa": 0.3077,
+  "inconsistency_detection_rate": 0.0,
+  "restatement_precision": 0.0,
+  "restatement_f1": 0.0,
+  "ambiguity_macro_f1": 0.5,
+  "detailed_transitions": [
+    {
+      "transition": "Apple (FY2021 -> FY2022)",
+      "ground_truth_ambiguity": "ALIGNED_DISCLOSURE",
+      "mta_ambiguity": "MODERATE_AMBIGUITY",
+      "ground_truth_restatement": false,
+      "mta_restatement": false,
+      "sas_score": 0.3391
+    },
+    {
+      "transition": "Apple (FY2022 -> FY2023)",
+      "ground_truth_ambiguity": "MODERATE_AMBIGUITY",
+      "mta_ambiguity": "MODERATE_AMBIGUITY",
+      "ground_truth_restatement": true,
+      "mta_restatement": false,
+      "sas_score": 0.4403
+    },
+    {
+      "transition": "Apple (FY2023 -> FY2024)",
+      "ground_truth_ambiguity": "ALIGNED_DISCLOSURE",
+      "mta_ambiguity": "ALIGNED_DISCLOSURE",
+      "ground_truth_restatement": false,
+      "mta_restatement": false,
+      "sas_score": 0.1961
+    },
+    {
+      "transition": "Google (FY2021 -> FY2022)",
+      "ground_truth_ambiguity": "ALIGNED_DISCLOSURE",
+      "mta_ambiguity": "HIGH_STRATEGIC_AMBIGUITY",
+      "ground_truth_restatement": false,
+      "mta_restatement": false,
+      "sas_score": 0.6731
+    },
+    {
+      "transition": "Google (FY2022 -> FY2023)",
+      "ground_truth_ambiguity": "HIGH_STRATEGIC_AMBIGUITY",
+      "mta_ambiguity": "HIGH_STRATEGIC_AMBIGUITY",
+      "ground_truth_restatement": true,
+      "mta_restatement": false,
+      "sas_score": 0.5051
+    },
+    {
+      "transition": "Google (FY2023 -> FY2024)",
+      "ground_truth_ambiguity": "HIGH_STRATEGIC_AMBIGUITY",
+      "mta_ambiguity": "MODERATE_AMBIGUITY",
+      "ground_truth_restatement": true,
+      "mta_restatement": false,
+      "sas_score": 0.4147
+    }
+  ]
+}

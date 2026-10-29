@@ -1,0 +1,4 @@
+Enterprise,Audited Fiscal Cycles,Evaluated Metrics,Longitudinal Consistency Score (%),Total Discrepancies Flagged,Baseline Restatements,YoY Trajectory Shifts,Peak Composite SAS,SAS Risk Classification,Key Analytical Takeaway
+Amazon,FY2021 to FY2024,3,88.5,11,3,8,0.3135,MODERATE_AMBIGUITY,"Continuous Scope 1 growth (12.11M -> 15.13M MT); retroactive Scope 3 adjustments (-10.8% in FY22, +18.8% in FY23)."
+Apple,FY2021 to FY2024,3,76.2,9,5,4,0.3639,MODERATE_AMBIGUITY -> ALIGNED,Methodological recalculations across Scope 1 (+16.4%) and Scope 2; progressive improvement to aligned disclosure (SAS 0.1650).
+Google,FY2021 to FY2024,3,43.8,14,8,6,0.5914,HIGH_STRATEGIC_AMBIGUITY,Surge in Scope 2 (+39.65% in FY22->23) directly triggers spike to 0.5914 SAS with Numerical Omission (1.0).
