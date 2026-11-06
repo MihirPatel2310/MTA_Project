@@ -1,0 +1,4 @@
+Metric Category,Precision,Recall,F1-Score,IDR (%),Cohen's Kappa
+Numerical Scope Extraction,0.9412,0.9143,0.9275,N/A,N/A
+Baseline Restatement Detection,0.8824,1,0.9375,100.00%,N/A
+Strategic Ambiguity Classification,0.8889,0.8889,0.8889,N/A,1
